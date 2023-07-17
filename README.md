@@ -1,4 +1,4 @@
-# capstone L01 : artificial music detection
+# MUSIC AND ACOUSTIC ENGINEERING CAPSTONE L01 : ARTIFICIAL MUSIC DETECTION THROUGH MACHINE LEARNING CLASSIFICATORS
 
 This repository containes 3 different codes focused on testing new way to perform artificial music detection:
 
