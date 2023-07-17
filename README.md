@@ -27,4 +27,4 @@ and then needs to modify the file paths with respect to the postion of the added
 Es: `/content/drive/My Drive/path/to/folder/Datasets_5/...`
 
 ### Paper
-To read the research paper look at: L01_Report.pdf
+To read the research paper, look at: L01_Report.pdf
